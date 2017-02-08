@@ -23,4 +23,4 @@ start:
 	java -jar build/libs/osusume-java-spring-0.0.1-SNAPSHOT.jar
 
 unit-ci:
-    ./bin/ci.sh
+	./bin/ci.sh
